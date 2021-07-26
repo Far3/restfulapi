@@ -1,7 +1,8 @@
 # restfulapi
-Building a restful API
+Building a restful API to store my smoker recipe's that I come accross.
 
-
+TODO
+- Deploy onto microsoft azure. Progress: Partially done at https://smoker-recipes.azurewebsites.net/.
 
 
 ## Notes
