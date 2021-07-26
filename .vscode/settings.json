@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6f5a4f15-4373-43d3-bcb9-2b3232a32ec0/resourceGroups/Smoker-Recipes/providers/Microsoft.Web/sites/Smoker-Recipes",
+    "appService.deploySubpath": "."
+}

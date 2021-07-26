@@ -6,6 +6,8 @@ import bodyParser from 'body-parser';
 const app = express();
 const PORT = 5280;
 
+console.log('Test update for deployment');
+
 //mongoose connection
 mongoose.Promise = global.Promise
 mongoose.connect('mongodb://localhost/CRMdb', {
