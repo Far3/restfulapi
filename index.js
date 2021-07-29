@@ -1,5 +1,5 @@
 import express from 'express';
-import routes from './src/routes/crmRoutes';
+import routes from './src/routes/smokerRoutes';
 import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 
